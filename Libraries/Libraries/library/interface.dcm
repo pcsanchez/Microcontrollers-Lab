@@ -1,0 +1,220 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013-03-17 11:40:17
+#
+$CMP AD5280
+D ANALOG DEVICES/TSSOP14
+$ENDCMP
+#
+$CMP AD5282
+D ANALOG DEVICES/TSSOP14
+$ENDCMP
+#
+$CMP AD5282_ABC
+D TSSOP16
+$ENDCMP
+#
+$CMP AD5290
+D Digital Potentiometer  256 steps   (SPI control) +- 15V
+K R POT
+F analog-dev/AD5290.pdf
+$ENDCMP
+#
+$CMP AD5293
+D Digital potentiometer 1024 pos (SPI)
+K R POT
+F analog-dev/AD5293.pdf
+$ENDCMP
+#
+$CMP AD9951
+D AD9951, 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
+K Direct Digital Synthesizer DDS
+F http://www.analog.com/static/imported-files/data_sheets/AD9951.pdf
+$ENDCMP
+#
+$CMP ADUM1200AR
+D ADuM1200AR, Dual-Channel Digital Isolator, 1Mbps 150ns, SO8
+K 2Ch Dual Digital Isolator 1Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1200BR
+D ADuM1200BR, Dual-Channel Digital Isolator, 10Mbps 50ns, SO8
+K 2Ch Dual Digital Isolator 10Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1200CR
+D ADuM1200CR, Dual-Channel Digital Isolator, 25Mbps 45ns, SO8
+K 2Ch Dual Digital Isolator 25Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1200WS
+D ADuM1200WS, Dual-Channel Digital Isolator, 1Mbps 150ns, Highest Tem. Grade, SO8
+K 2Ch Dual Digital Isolator 1Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1200WT
+D ADuM1200WT, Dual-Channel Digital Isolator, 10Mbps 50ns, Highest Tem. Grade, SO8
+K 2Ch Dual Digital Isolator 10Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1200WU
+D ADuM1200WU, Dual-Channel Digital Isolator, 25Mbps 45ns, Highest Tem. Grade, SO8
+K 2Ch Dual Digital Isolator 25Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201AR
+D ADuM1201AR, Dual-Channel Digital Isolator, 1Mbps 150ns, SO8
+K 2Ch Dual Digital Isolator 1Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201BR
+D ADuM1201BR, Dual-Channel Digital Isolator, 10Mbps 50ns, SO8
+K 2Ch Dual Digital Isolator 10Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201CR
+D ADuM1201CR, Dual-Channel Digital Isolator, 25Mbps 45ns, SO8
+K 2Ch Dual Digital Isolator 25Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201WS
+D ADuM1201WS, Dual-Channel Digital Isolator, 1Mbps 150ns, Highest Temp. Grade, SO8
+K 2Ch Dual Digital Isolator 1Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201WT
+D ADuM1201WT, Dual-Channel Digital Isolator, 10Mbps 50ns, Hihgest Temp. Grade, SO8
+K 2Ch Dual Digital Isolator 10Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP ADuM1201WU
+D ADuM1201WU, Dual-Channel Digital Isolator, 25Mbps 45ns, Highest Temp. Grade, SO8
+K 2Ch Dual Digital Isolator 25Mbps
+F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
+$ENDCMP
+#
+$CMP CH376T
+D CH376T, File Management USB Flash Card SD Interface, TSSOP20
+K File Management USB Flash Card SD Interface
+F http://iteadstudio.com/store/images/produce/Platform/FPGA/BlackGold/CH376DS1.PDF
+$ENDCMP
+#
+$CMP DP83848C
+D DP83848C, MII/RMII Single 10/100Mbps Ethernet Physical Layer Transciever, LQFP48
+K Ethernet PHY MII RMII 10/100Mpbs
+F http://www.ti.com/lit/ds/symlink/dp83848c.pdf
+$ENDCMP
+#
+$CMP EL7242C
+D Translateur TTL->VMOS. Double driver VMOS
+$ENDCMP
+#
+$CMP FT232RL
+D USB to serial interface
+K USB
+$ENDCMP
+#
+$CMP IR2110
+D VMOS Driver
+K VMOS
+F ir/ir2110.pdf
+$ENDCMP
+#
+$CMP LTC2861
+D 20Mbps RS485 transceiver with tntegrated switchable termination
+K RS485
+F linear-tec\ltc2859-2861.pdf
+$ENDCMP
+#
+$CMP MAX232
+D Driver de Ligne RS232
+K RS232
+$ENDCMP
+#
+$CMP MCP2551-I/P
+D MCP2551-I/P, High-Speed CAN Transceiver, PDIP8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP MCP2551-I/SN
+D MCP2551-I/SN, High-Speed CAN Transceiver, SO8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP SP3481CN
+D SP3481CN, 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SO8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3481CP
+D SP3481CP, 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3481EN
+D SP3481EN, Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SO8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3481EP
+D SP3481EP, Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3485CN
+D SP3485CN, 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SO8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3485CP
+D SP3485CP, 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3485EN
+D SP3485EN, Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SO8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP SP3485EP
+D SP3485EP, Industrial 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, DIP8
+K Low Power Half-Duplex RS-485 Transceiver 10Mbps
+F http://www.icbase.com/pdf/SPX/SPX00480106.pdf
+$ENDCMP
+#
+$CMP TMC809
+D Microcontroller reset monitor
+F microchip/TCM809_reset_controller.pdf
+$ENDCMP
+#
+$CMP XTR115U
+D XTR115U, 4-20mA Current Loop Transmitter, SO8
+K 4-20mA Current Loop Transmitter
+F http://www.ti.com/lit/ds/symlink/xtr115.pdf
+$ENDCMP
+#
+$CMP XTR116U
+D XTR116U, 4-20mA Current Loop Transmitter, SO8
+K 4-20mA Current Loop Transmitter
+F http://www.ti.com/lit/ds/symlink/xtr115.pdf
+$ENDCMP
+#
+#End Doc Library
